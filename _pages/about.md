@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior at the University of Wisconsin-Madison</a>. 212 Marion St. +1 (608)-960-1550.
+subtitle: Senior at the University of Wisconsin-Madison. CS, DS, Mathematics Major.
 
 profile:
   align: right
@@ -12,8 +12,8 @@ profile:
     <p>212 Marion St.</p>
     <p>Madison, WI 53703</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
