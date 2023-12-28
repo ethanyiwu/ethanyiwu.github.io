@@ -9,8 +9,8 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>email: mail.{first_name}.{last_name}@gmail.com</p>
-    <p>Madison, WI 53703</p>
+    <p>1210 W Dayton St,</p>
+    <p>Madison, WI 53706</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
