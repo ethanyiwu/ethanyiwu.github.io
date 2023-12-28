@@ -22,9 +22,9 @@ Hi there! I am a senior undergraduate computer science student in [University of
 
 My research aims to bridge the gap between artificial and human intelligence, a pursuit both challenging and essential. Specifically, I am interested in how to:
 - build AI system that has stronger reasoning abilities
-- devising strategies for model adaptability amidst domain shifts, particularly in NLP,
-- exploring AI agents' group behaviors and creating collaborative AI in realistic settings, and 
-- establishing links between cognitive science and AI, using the former to elucidate the latter. 
+- devise strategies for model adaptability amidst domain shifts, particularly in NLP,
+- explore AI agents' group behaviors and create collaborative AI in realistic settings, and 
+- establish links between cognitive science and AI, use the former to elucidate the latter. 
 
-I am on leave from [HKUST](https://hkust.edu.hk/), and I did my exchange at [UIUC](https://www.wisc.edu).
+I am on leave from [HKUST](https://hkust.edu.hk/), and I did my exchange at [UIUC](https://www.illinois.edu).
 
