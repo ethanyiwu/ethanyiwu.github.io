@@ -3,19 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Dhruv
+first_name: Yi 
 middle_name: 
-last_name: Gupta
-email: dgupta42@wisc.edu
+last_name: Wu
+email: mail.yi.wu@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Dhruv Gupta's Homepage, Senior at the University of Wisconsin-Madison
+  Yi Wu's Homepage, Senior at the University of Wisconsin-Madison
 footer_text: >
 keywords: student, artificial-intelligence, machine-learning, natural-language-processing, researcher, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: wisco_favicon_32x32.png #⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://dhruv0811.github.io # the base hostname & protocol for your site
+url: https://ethanyiwu.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
