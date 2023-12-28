@@ -18,4 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! I am a senior undergraduate computer science student in University of Wisconsin-Madison!
+Hi there! I am a senior undergraduate computer science student in [University of Wisconsin-Madison](https://www.wisc.edu/). I am very fortunate to work with [Prof. Junjie Hu](https://junjiehu.github.io/) and [Sean Chuang](https://yunshiuan.github.io/). Previously, I transferred from [HKUST](https://hkust.edu.hk/), and I also spent some time in [UIUC](https://www.wisc.edu).
+
+My research aims to bridge the gap between artificial and human intelligence, a pursuit both challenging and essential.
